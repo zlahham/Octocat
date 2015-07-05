@@ -1,1 +1,3 @@
 Explain what git clone does, in your own words
+The command $ git clone copies a repository from a remote source or a local one into a chosen directory.
+I personally used got clone to copy a repository from Github (remote source) into my local directory, it could also be used the other way around in theory

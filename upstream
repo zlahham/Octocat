@@ -1,1 +1,4 @@
 Explain what the "upstream" remote is usually used for, in your own words
+
+An upstream remote is used/applied when we do the following command $ git remote add -u git@gihub.........
+The significance of this remote is highlighted when we want to constantly push/pull to and from a remote directory, it simplifies the process.
